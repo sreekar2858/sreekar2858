@@ -12,7 +12,7 @@
 ### Feel Free to Contact me.....
 
 <p align="center">
-	<a href="https://github.com/sreekar2858"><img alt="sof" width="5%" style="padding:5px" src="https://img.icons8.com/color/48/000000/stackoverflow.png"/></a>
+	<a href="https://github.com/sreekar2858"><img alt="sof" width="5%" style="padding:5px" src="https://img.icons8.com/color/48/000000/github.png"/></a>
 	<a href="https://www.linkedin.com/in/sreekar07036910b/"><img alt="linkedin" width="5%" style="padding:5px" src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
 	<a href="https://www.instagram.com/imnotsr33/"><img alt="instagram" width="5%" style="padding:5px" src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"/></a>
 </p>
