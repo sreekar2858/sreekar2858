@@ -11,8 +11,11 @@ Feel free to reach out to me for collaboration, discussions, or project inquirie
 <p align="center">
 	<a href="https://github.com/sreekar2858"><img alt="GitHub" width="5%" style="padding:5px" src="https://img.icons8.com/color/48/000000/github.png"/></a>
 	<a href="https://www.linkedin.com/in/sreekar07036910b/"><img alt="LinkedIn" width="5%" style="padding:5px" src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+	<a href="mailto:sreekar2858@gmail.com"><img alt="Email" width="5%" style="padding:5px" src="https://img.icons8.com/?size=100&id=124193&format=png&color=000000"/></a>
 </p>
 
+- I've recently been delving into web development and built my own portfolio from scratch using React (Vite) in Typescript.
+Check out my portfolio here: <a href="https://sreekar2858.tech">https://sreekar2858.tech</a>
 ---
 
 ### Programming Languages 💻
@@ -25,6 +28,7 @@ Feel free to reach out to me for collaboration, discussions, or project inquirie
 	<img width="5%" style="padding:5px" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000"/>
 	<img width="5%" style="padding:5px" src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000"/>
 	<img width="5%" style="padding:5px" src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg"/>
+	<img width="5%" style="padding:5px" src="https://img.icons8.com/?size=100&id=9MJf0ngDwS8z&format=png&color=000000"/> 
 </p>
 
 ---
@@ -44,12 +48,12 @@ I work with a variety of tools and software to solve complex problems and develo
   - [Fluent](https://www.ansys.com/products/fluids/ansys-fluent) – Comprehensive CFD simulation software.
   
 - **Machine Learning Frameworks**:
-  - **TensorFlow** – For building deep learning models.
-  - **PyTorch** – Deep learning framework focused on flexibility and speed.
-  - **Scikit-learn** – Machine learning library in Python.
+  - <img width="2.5%" style="padding:5px" src="https://img.icons8.com/?size=100&id=n3QRpDA7KZ7P&format=png&color=000000"/> **TensorFlow** – For building deep learning models.
+  - <img width="2.5%" style="padding:5px" src="https://img.icons8.com/?size=100&id=jH4BpkMnRrU5&format=png&color=000000"/> **PyTorch** – Deep learning framework focused on flexibility and speed.
+  - <img width="4.5%" style="padding:5px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/> **Scikit-learn** – Machine learning library in Python.
 
 - **Version Control**:
-  - **Git** – For code versioning and collaboration.
+  - <img width="2.5%" style="padding:5px" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000"/> **Git** – For code versioning and collaboration.
 
 ---
 
