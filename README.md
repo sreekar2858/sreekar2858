@@ -64,4 +64,19 @@ I work with a variety of tools and software to solve complex problems and develo
 
 ### Let's Connect! 🤝
 
-I’m always excited to connect with like-minded individuals for collaboration or knowledge sharing. Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/sreekar07036910b/) or [GitHub](https://github.com/sreekar2858).
+I’m always excited to connect with like-minded individuals for collaboration or knowledge sharing. Feel free to reach out to me via [Email](mailto:sreekar2858@gmail.com) [LinkedIn](https://www.linkedin.com/in/sreekar07036910b/) or [GitHub](https://github.com/sreekar2858).
+
+---
+
+### Stats 📈
+
+<p align="center" style="display: flex; justify-content: center;">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sreekar2858&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook&langs_count=8" alt="sreekar2858" width='220' /> 
+	<img src="https://github-readme-stats.vercel.app/api?username=sreekar2858&show_icons=true&locale=en&rank_icon=github&custom_title=Sreekar%27s%20Github%20Stats" alt="sreekar2858" width='330'/> 
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=sreekar2858&" alt="sreekar2858" width='350'/>
+</p>
+
+
+<!--
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sreekar2858" alt="sreekar2858" /></a> </p>
+-->
