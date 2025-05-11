@@ -3,8 +3,9 @@
 <p align="center">
 </p>
 
-- I'm a **Computational Mechanical Engineer** | **Programmer**
-- Passionate about contributing to **Numerical Simulations** and **Artificial Intelligence Projects** 🚀
+- 🎓 Computational Mechanical Engineer by degree, problem solver by nature - blending engineering precision with intelligent systems
+- 🤖 Passionate about Numerical Simulations, AI Agents, and Generative AI - currently building with Google's GenAI & ADK, LangChain, and LangGraph
+- 🌐 Creating web apps for seamless access to self-hosted AI agents, making advanced tools intuitive and accessible
 
 Feel free to reach out to me for collaboration, discussions, or project inquiries!
 
